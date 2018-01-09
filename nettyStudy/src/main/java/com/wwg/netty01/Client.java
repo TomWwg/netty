@@ -26,8 +26,14 @@ public class Client {
     }
 
     public void start(){
+        /**
+         * EventLoop目的是为Channel处理IO操作，
+         * 一个EventLoop可以为多个Channel服务,
+         * EventLoopGroup会包含多个EventLoop。
+         */
         EventLoopGroup group = new NioEventLoopGroup();
 
+        //一个Netty应用通常由一个Bootstrap开始，它主要作用是配置整个Netty程序，串联起各个组件。
         Bootstrap bootstrap = new Bootstrap();
         bootstrap.group(group)
                 .channel(NioSocketChannel.class)
