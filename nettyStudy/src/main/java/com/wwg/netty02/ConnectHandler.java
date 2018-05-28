@@ -5,6 +5,7 @@ import io.netty.channel.ChannelInboundHandlerAdapter;
 
 /**
  * Created by wwg on 2018/5/25.
+ * @author wwg
  */
 public class ConnectHandler extends ChannelInboundHandlerAdapter {
     @Override
