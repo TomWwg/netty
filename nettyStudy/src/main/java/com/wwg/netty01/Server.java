@@ -7,7 +7,9 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
- * Created by wwg on 2017/12/29.
+ *
+ * @author wwg
+ * @date 2017/12/29
  */
 public class Server {
 
