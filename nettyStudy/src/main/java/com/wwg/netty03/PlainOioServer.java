@@ -7,6 +7,7 @@ import java.net.Socket;
 import java.nio.charset.Charset;
 
 /**
+ * 未使用Netty的阻塞网络编程
  * 阻塞传输
  * @author wwg
  * @date 2018/6/4
