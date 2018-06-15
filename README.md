@@ -1,4 +1,4 @@
-# netty
+ï»¿# netty
 This is my projrct
 
 #### Fuck me here
@@ -11,8 +11,8 @@ This is my projrct
 * 2332
 * 34
 
-1. µÄ·¢µÄ
-2. (¡Ño¡Ñ)¡­34
+1. çˆ±æˆ‘ä¸æ€¥
+2. æŒ‚æˆ‘ç»“å©š
 
 [to baidu](https://www.baidu.com/)
 
